@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat-fahimul&label=Profile%20views&color=0e75b6&style=flat" alt="sifat-fahimul" /> </p>
 
-- 🌱 I’m currently learning **Node, Express and mingoDb**
+- 🌱 I’m currently learning **DSA in c++**
 
 - 💬 Ask me about **react**
 
